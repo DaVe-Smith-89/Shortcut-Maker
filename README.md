@@ -5,6 +5,8 @@ It is a tool that can be set to run any tool with a single command
 
 <a href="https://github.com/DaVe-Smith-89"><img src="IMG_20210509_185120_415.jpg"></a>
 
+## Command list👇
+
 >`pkg update && pkg upgrade -y`
 
 >`pkg install python -y`
